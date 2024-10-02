@@ -37,6 +37,10 @@ EasyStems is a simple graphical user interface (GUI) application built using `cu
 ## Installation
 
 1. Clone the repository or download the code.
-2. Install the required Python packages, (I reccomend first downloading Anaconda, and using homebrew for ffmpeg)
+2. Install the required Python packages, (I recommend first downloading Anaconda, and using homebrew for ffmpeg)
+
+## Execution
+
+1. 'python3 EasyStems.py'
 
 
